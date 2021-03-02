@@ -1,0 +1,40 @@
+body{
+    background-color: #254c7c;
+}
+
+nav{
+    background-color: gray;
+    height: 80px;
+    text-align: center;
+    padding: 3%;
+}
+
+main{
+    margin-top: 50px;
+}
+.heading{
+    background-color: rgb(236, 122, 160);
+    margin-left: 25px;
+    width: 80%;
+    border: 5px solid black;
+    position: sticky;
+    top: 60px;
+}
+
+.NumberList{
+    border: 2px solid black;
+    color: white;
+}
+
+li:hover{
+    background-color: gray;
+    border: black;
+    font-size: 25px;
+
+}
+
+footer{
+    background-color: rgb(121, 111, 111);
+    height: 50px;
+    text-align: center;
+}
